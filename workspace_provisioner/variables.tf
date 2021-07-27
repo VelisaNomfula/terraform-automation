@@ -31,3 +31,8 @@ variable "unmanaged_workspaces_exceptions" {
   description = "The workspaces outputs unmanaged workspaces, you can suppress it"
   default     = []
 }
+
+variable "token" {
+  type = string
+  description = "terraform token"
+}

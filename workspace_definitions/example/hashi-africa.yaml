@@ -9,7 +9,7 @@ workspace:
   working_directory: ""
   terraform_version: "0.14.0"
   vcs_repo:
-    identifier: "phzietsman/terraform-aws-sample-deployment"
+    identifier: "VelisaNomfula/test-workspace"
     branch: "main"
     oauth_token_id: ""
   trigger_prefixes:
